@@ -56,7 +56,7 @@
               <manifest>
                 <addClasspath>true</addClasspath>
                 <classpathPrefix>lib/</classpathPrefix>
-                <mainClass>exmvn.App</mainClass>
+                <mainClass>simdev.exmvn.App</mainClass> <!-- Class principale -->
               </manifest>
             </archive>
         </configuration>
